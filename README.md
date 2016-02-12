@@ -7,8 +7,8 @@
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-#Learning sites
-    [1.www.geeksforgeeks.org](http://www.geeksforgeeks.org)
+Learning sites
+    [1.www.geeksforgeeks.org](https://www.geeksforgeeks.org)
     2.www.stackoverflow.com
     3.www.programabad.com
     4.www.subeen.com
