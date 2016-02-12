@@ -14,6 +14,11 @@
  + [Codeforces](https://www.codeforces.com)  
  + [LightOj](https://www.lightoj.com)  
  + [UVA](https://www.uva.onlinejudge.org)  
+ + [SPOJ](https://www.spoj.com)  
+ + [HackerRank](https://www.hackerrank.com)  
+ + [Topcoder](https://www.topcoder.com)  
+ + [CodeChef](https://www.codechef.com)  
+ + [URI](https://www.urionlinejudge.com.br)  
 
 #Learning sites
 [www.geeksforgeeks.org](https://www.geeksforgeeks.org)  
