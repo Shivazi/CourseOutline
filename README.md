@@ -1,8 +1,8 @@
 # CourseOutline
 # kldsf lkasdf lkasdjf dlfk
 
-# lkdfhhhhad fjkadshf asdhfaskdjfhsdhfsdhfsdfh
-jhkjhkjhkljkjhk jkhj khjkhj kjkhjk
+### lkdfhhhhad fjkadshf asdhfaskdjfhsdhfsdhfsdfh
+
 ### Introduction to Computer Science
 
 Courses | Duration | Effort
