@@ -1,9 +1,4 @@
 # CourseOutline
-# kldsf lkasdf lkasdjf dlfk
-
-### lkdfhhhhad fjkadshf asdhfaskdjfhsdhfsdhfsdfh
-
-### Introduction to Computer Science
 
 Courses | Duration | Effort
 :-- | :--: | :--:
@@ -22,14 +17,11 @@ Courses | Duration | Effort
 [12. www.youtube.com/user/TEDtalksDirector](https://www.stackoverflow.com)  
 
 #Mathematics Practice Sites
-    [1. www.brilliant.org]
-
-    [2. www.schoolyourself.org]
-
-    [3. www.projecteuler.net]
-
-    [4. www.khanacademy.org]
+[1. www.brilliant.org](http://www.brilliant.org)  
+[2. www.schoolyourself.org](https://www.schoolyourself.org)  
+[3. www.projecteuler.net](https://www.projecteuler.net)  
+[4. www.khanacademy.org](https://www.khanacademy.org)  
 
 #MOOC(Massive Open Online Course) Sites
-    [1. www.edx.org]
-    [2. www.coursera.org]
+[1. www.edx.org](https://www.edx.org)  
+[2. www.coursera.org](https://www.coursera.org)  
