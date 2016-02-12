@@ -17,7 +17,7 @@ Courses | Duration | Effort
 [12. www.youtube.com/user/TEDtalksDirector](https://www.stackoverflow.com)  
 
 #Mathematics Practice Sites
-[1. www.brilliant.org](http://www.brilliant.org)  
+[1. www.brilliant.org](https://www.brilliant.org)  
 [2. www.schoolyourself.org](https://www.schoolyourself.org)  
 [3. www.projecteuler.net](https://www.projecteuler.net)  
 [4. www.khanacademy.org](https://www.khanacademy.org)  
