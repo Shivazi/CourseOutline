@@ -6,3 +6,4 @@
 ### Introduction to Computer Science
 
 Courses | Duration | Effort
+:-- | :--: | :--:
