@@ -2,7 +2,9 @@
 
 #Basic Mathematics Learning and Practice
  + Algebra  
-   [Algebra](https://brilliant.org)  
+   [Link 1](https://brilliant.org/math/algebra/algebraic-expressions)  
+   [Link 2](https://schoolyourself.org/learn)  
+   [Link 3](https://www.khanacademy.org/math/algebra-basics)  
 
 #Learning sites
 [www.geeksforgeeks.org](https://www.geeksforgeeks.org)  
