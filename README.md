@@ -8,9 +8,9 @@
 Courses | Duration | Effort
 :-- | :--: | :--:
 #Learning sites
-    [1. www.geeksforgeeks.org](https://www.geeksforgeeks.org)
+    1. [www.geeksforgeeks.org](https://www.geeksforgeeks.org)
 
-    [2. www.stackoverflow.com](https://www.stackoverflow.com)
+    2. [www.stackoverflow.com](https://www.stackoverflow.com)
 
     [3. www.programabad.com](https://www.stackoverflow.com)
 
