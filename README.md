@@ -1,7 +1,9 @@
 # CourseOutline
 
-Courses | Duration | Effort
-:-- | :--: | :--:
+#Basic Mathematics Learning and Practice
+ + Algebra  
+[Algebra](https://brilliant.org)  
+
 #Learning sites
 [www.geeksforgeeks.org](https://www.geeksforgeeks.org)  
 [www.stackoverflow.com](https://www.stackoverflow.com)  
