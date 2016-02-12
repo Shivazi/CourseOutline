@@ -11,10 +11,10 @@
    [Link 3](https://www.khanacademy.org/math/geometry)
 
 #Language C/C++
- + 
- + 
- + 
- + 
+ + [LearnC](http://www.learn-c.org)  
+ + [Cprogramming](http://www.cprogramming.com/tutorial/c-tutorial.html)  
+ + [TutorialPoint](http://www.tutorialspoint.com/cprogramming/)  
+ + [Cplusplus](http://www.cplusplus.com/reference/)  
 
 #Online Judge
  + [Codeforces](https://www.codeforces.com)  
