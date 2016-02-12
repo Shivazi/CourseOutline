@@ -2,7 +2,7 @@
 
 #Basic Mathematics Learning and Practice
  + Algebra  
-[Algebra](https://brilliant.org)  
+   [Algebra](https://brilliant.org)  
 
 #Learning sites
 [www.geeksforgeeks.org](https://www.geeksforgeeks.org)  
