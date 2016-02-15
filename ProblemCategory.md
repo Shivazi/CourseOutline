@@ -4,6 +4,7 @@
   [(Help 2)](https://math.stackexchange.com/questions/496116/is-there-a-partial-sum-formula-for-the-harmonic-series)  
 + [2. Harmonic Number(II)](http://lightoj.com/volume_showproblem.php?problem=1245)  
 + [3. New Function](http://lightoj.com/volume_showproblem.php?problem=1098)  
++ [4. Leading and Trailing Digits](http://lightoj.com/volume_showproblem.php?problem=1282)  
 
 LCM
 ----
