@@ -5,8 +5,8 @@
 + [2. Harmonic Number(II)](http://lightoj.com/volume_showproblem.php?problem=1245)  
 + [3. New Function](http://lightoj.com/volume_showproblem.php?problem=1098)  
 + [4. Leading and Trailing Digits](http://lightoj.com/volume_showproblem.php?problem=1282)
-  [Help](http://mathforum.org/library/drmath/view/66970.html)
-  [Help](http://www.sosmath.com/CBB/viewtopic.php?t=33137)   
+  [(Help 1)](http://mathforum.org/library/drmath/view/66970.html)
+  [(Help 2)](http://www.sosmath.com/CBB/viewtopic.php?t=33137)   
 
 LCM
 ----
