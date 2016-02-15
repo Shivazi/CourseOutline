@@ -9,7 +9,7 @@ Basic
 + Euclidean Algorithm
   [Video](https://www.youtube.com/watch?v=fwuj4yzoX1o)  
 + [Finding the Last Digits of a Large Exponential](http://mathforum.org/library/drmath/view/66970.html)  
-+ [Finding the First Digits of a Large Exponential]()  
++ [Finding the First Digits of a Large Exponential](http://www.sosmath.com/CBB/viewtopic.php?t=33137)  
 
 #Combinatorics
 + Pascal's Triangle
