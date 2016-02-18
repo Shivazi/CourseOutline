@@ -11,3 +11,7 @@
 LCM
 ----
 + [3. Finding LCM](http://lightoj.com/volume_showproblem.php?problem=1215)  
+
+PrimeNumber
+-----------
++ [Segmented Sieve](http://www.geeksforgeeks.org/segmented-sieve/)  
