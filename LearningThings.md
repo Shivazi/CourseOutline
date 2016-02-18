@@ -38,4 +38,10 @@ inclusion and exclusion
 -----------------------
 
 
+#Study pshychology
++ [gowth mindset](https://www.youtube.com/watch?v=ElVUqv0v1EE)  
+
+
+
+
 
