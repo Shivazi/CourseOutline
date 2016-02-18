@@ -25,6 +25,7 @@
 + Miller Rabin Primality Test  
 + Pollard's Rho Algorithm  
 
+
 #Combinatorics
 + [Pascal's Triangle](http://hanoiparis.com/construct.php?page=paysagetxt&idfam=25&idpays=1421)  
 
@@ -32,6 +33,9 @@
 
 + [Binary Index Tree](https://stackoverflow.com/questions/15439233/bitusing-a-binary-indexed-tree)  
 
+#Combinatorics
+inclusion and exclusion
+-----------------------
 
 
 
